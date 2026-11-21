@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.4",
+  "versionCode": 4,
+  "versionName": "1.0.5",
   "forceUpdate": false,
   "apkUrl": "https://github.com/daduteam/Updates/releases/download/v1.0.4/MPaySMS.apk",
   "changelog": "• ৭টি অপারেটর (RYZE ও Skitto সহ) সাপোর্ট\n• সিম কার্ডে One-Tap কপি বাটন ও রেসপন্সিভ ডিজাইন\n• Samsung SIM পপআপ অটো-ক্লোজ ফিক্স\n• ইন-অ্যাপ অটো আপডেট সিস্টেম"
